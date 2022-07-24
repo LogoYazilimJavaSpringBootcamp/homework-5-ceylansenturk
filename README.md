@@ -56,10 +56,7 @@ Payment feign ile senkron, email rabbitmq ile asenkron eklenmiştir.
 - GET http://localhost:3434/users/sign-in
 - PUT http://localhost:3434/users/update
 
-![](../../../Masaüstü/Ekran görüntüsü 2022-07-24 211509.png)
-
-![](../../../Masaüstü/Ekran görüntüsü 2022-07-24 212007.png)
-
-![](../../../Masaüstü/Ekran görüntüsü 2022-07-24 212108.png)
-
-![](../../../Masaüstü/Ekran görüntüsü 2022-07-24 214706.png)
+![Ekran görüntüsü 2022-07-24 211509](https://user-images.githubusercontent.com/72973798/180662278-f6213345-7dc4-4d9f-8fb3-a1a2f06b3e6a.png)
+![Ekran görüntüsü 2022-07-24 212007](https://user-images.githubusercontent.com/72973798/180662280-d9fd3447-966e-481e-b149-afaf3d2d64f5.png)
+![Ekran görüntüsü 2022-07-24 212108](https://user-images.githubusercontent.com/72973798/180662281-ea114857-f548-4145-b62d-764fcc566f8a.png)
+![Ekran görüntüsü 2022-07-24 214706](https://user-images.githubusercontent.com/72973798/180662282-8bf1a871-3081-4331-ab3b-526ad1d91596.png)
